@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "zxcvbn-c-swift-wrapper",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jeyries/zxcvbn-c-swift-wrapper.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "59a8a3f403ef88166a34ef9947dd6ead13b23d35"
+      }
+    },
+    {
+      "identity" : "zxcvbn-js-swift-wrapper",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jeyries/zxcvbn-js-swift-wrapper.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "f50a4757802ad54b9d5d39ceb1ec042d1fd2a3a7"
+      }
+    }
+  ],
+  "version" : 2
+}
